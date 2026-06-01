@@ -22,14 +22,6 @@ ENV/
 *.swp
 *.swo
 
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb
-
-# Data files (если данные большие или приватные)
-*.csv
-*.xlsx
-
 # Models (опционально, если модели большие)
 *.pkl
 *.joblib
